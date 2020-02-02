@@ -1,6 +1,6 @@
-==================================
-Looney Mages' Cruise - A Boardgame
-==================================
+========================================
+Looney Mages' Cruise - A Coop Board Game
+========================================
 
 *Ache Mage, Coffee Magiatto, Duct Tape Mage and Gastronomage are on their weekend cruise on their beloved ship Booty to visit their old friends at the high academy of magical arts. Suddenly, purple strings of pure magic emerge from within the fabric of space and time, dragging it into void between the six and half dimensions of reality.*
 
