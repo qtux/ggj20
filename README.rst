@@ -18,14 +18,15 @@ Main Content
 ============
 
 - 1 ol' Bootys deck, a grid-based map of the ship deck for placing and moving tokens
-- 4 different mage sheets, for tracking hit points and explaining their special skills:
+- 5 different mage sheets (4 of them playable), for tracking hit points and explaining their special skills:
 
   + Ache Mage (green, has a healing touch, can heal mages, either by moving himself to heal himself or by moving another mage into a wall or obstacle)
   + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up)
   + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down)
-  + Gastronomage (grey can easily deal with rats, and make a rat skewer to heal himself)
+  + Gastronomage (grey, can easily deal with rats, and make a rat skewer to heal himself)
+  + Juggernaut (orange, mad colleague, losses his mind on taking jumps through dimensions and randomly interferes with the other mages, disturbing their actions)
 
-- 4 mage tokens indicating the current viewing direction of each mage
+- 5 mage tokens indicating the current viewing direction of each mage
 - 8 obstacle tokens
 - 4 types of hazards tokens:
 
