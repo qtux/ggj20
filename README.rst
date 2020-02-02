@@ -15,22 +15,35 @@ As each round has a time limit, total game time is about 30 min.
 Main Content
 ============
 
-- 1 deck of the ship filled with:
-  + obstacles
-  + explosives
-- 4 different mage sheets:
-  + Coffeemage (can easily distinguish fire with coffee, speed up)
-  + Ducttapemage (can easily fix ruptures in the ship, slow down)
-  + Gastronomage (can easily deal with rats, and cook a rat stew to heal himself)
-  + Achemage (has a healing touch, can heal himself or allies when hiting them)
-- 4 mage tokens indicating viewing direction of the four mages
+- 1 ol' Bootys deck, a grid-based map of the ship deck for placing and moving tokens
+- 4 different mage sheets, for tracking hit points and explaining their special skills:
+
+  + Ache Mage (green, has a healing touch, can heal mages, either by moving himself to heal himself or by moving another mage into a wall or obstacle)
+  + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up)
+  + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down)
+  + Gastronomage (grey can easily deal with rats, and make a rat skewer to heal himself)
+
+- 4 mage tokens indicating the current viewing direction of each mage
 - 8 obstacle tokens
 - 4 types of hazards tokens:
+
   + fire (red)
   + hull breach (blue)
-  + rat plague (black)
+  + rat plague (grey)
   + corruption (violet)
-- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired to RoboRalley movement system
+
+- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired to RoboRalley movement system:
+
+  + 2 x Move 4
+  + 6 x Move 3
+  + 12 x Move 2
+  + 18 x Move 1
+  + 6 x Backup
+  + 9 x Move Left
+  + 9 x Move Right
+  + 18 x Rotate Left
+  + 18 x Rotate Right
+  + 6 x U Turn
 
 
 
