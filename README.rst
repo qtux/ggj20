@@ -148,3 +148,13 @@ List of Game Materials
   + 18 x Rotate Left
   + 18 x Rotate Right
   + 6 x U Turn
+
+Credits
+=======
+
+* Annemarie Mattmann
+* Funda Cosgun
+* Joachim Streit
+* Matthias Gazzari
+* Pascal Touligou
+* Roman Uhlig
