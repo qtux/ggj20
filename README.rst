@@ -2,7 +2,7 @@
 Looney Mages' Cruise - A Boardgame
 ==================================
 
-*Ache Mage, Coffee Magiatto, Duct Tape Mage and Gastronomage are on their weekend cruise on their beloved ship Booty to visit their old friends at the high academy of magical arts. Suddenly, violet strings of pure magic emerge from within the fabric of space and time dragging it into void between the six and half dimensions of reality.*
+*Ache Mage, Coffee Magiatto, Duct Tape Mage and Gastronomage are on their weekend cruise on their beloved ship Booty to visit their old friends at the high academy of magical arts. Suddenly, purple strings of pure magic emerge from within the fabric of space and time, dragging it into void between the six and half dimensions of reality.*
 
 .. figure:: art/concept.svg
 
@@ -22,7 +22,7 @@ Main Content
   + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up)
   + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down)
   + Gastronomage (grey, can easily deal with rats, and make a rat skewer to heal himself)
-  + Juggernaut (orange, mad colleague, losses his mind on taking jumps through dimensions and randomly interferes with the other mages, disturbing their actions)
+  + Juggermage (orange, mad colleague, lost his mind jumping through dimensions and randomly interferes with the other mages, disturbing their actions)
 
 - 5 mage tokens indicating the current viewing direction of each mage
 - 1 starting mage token
@@ -32,7 +32,7 @@ Main Content
   + fire (red)
   + hull breach (blue)
   + rat plague (grey)
-  + corruption (violet)
+  + corruption (purple)
 
 - 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired to RoboRalley movement system:
 
@@ -58,10 +58,10 @@ The initial setup consists of:
 
 - put the main game board -- the deck of your magical ship -- to the center of the table.
 - randomly assign the starting mage token to a player
-- shuffle the mage sheets (except for the Juggernaut) and deal one to each player
+- shuffle the mage sheets (except for the Juggermage) and deal one to each player
 - put the mage tokens of the four playable mages in each corner of the board
-- put the Juggernaut mage token randomly somewhere in the middle of the ship deck
-- put a dice on the mage sheet hit point slot to indicate your current life (starter: 6, advanced: 4, crazy wizard: 2) -- the Juggernaut is immortal
+- put the Juggermage mage token randomly somewhere in the middle of the ship deck
+- put a dice on the mage sheet hit point slot to indicate your current life (starter: 6, advanced: 4, crazy wizard: 2) -- the Juggermage is immortal
 - randomly put obstacle tokens (starter: 4, advanced: 6, crazy wizard: 8) on the playfield ensuring that no mage is blocked
 
 
@@ -70,13 +70,13 @@ The initial setup consists of:
 - give the start mage token to the mage on your left (clock-wise)
 - add another hazard token to all hazards not dealt with the last round
 - add new hazards: use a D8 and D10 to randomly spawn the following hazards at the rolled coordinate:
-  + 1 fire
-  + 1 hull breach
-  + 1 rat plague
-  + 2 corruption
+  + 1 fire (red)
+  + 1 hull breach (blue)
+  + 1 rat plague (grey)
+  + 2 corruption (purple)
 - during this phase, you may chat with each other to plan your moves
 - shuffle the action cards and deal ten unrevealed to each player, ten cards to a backup pile
-- deal five cards to the Juggernaut and reveal them -- the starting mage explains the movement path of the Juggernaut to the fellow magicians
+- deal five cards to the Juggermage and reveal them -- the starting mage explains the movement path of the Juggermage to the fellow magicians
 
 
 ** I Planing Phase**:
@@ -86,7 +86,7 @@ The initial setup consists of:
 - pick five actions and put them in front of you in a defined order, possible actions are:
 
   + movement, rotation or repair (turn one of the action cards on the back to indicate a planned repair action)
-  + a repair is only possible when being adjacent to the hazard (repairing a hazard diagonally to the player is not allowed)
+  + a repair is only possible when being adjacent to the hazard (repairing a hazard diagonally to the mage is not allowed)
   + if multiple hazards are adjacent to the mage, the mage may choose the hazard to be upon executing the repair action
   + each mage can repair a single fire, hull breach or rat token without taking damage
   + only the three specialized mages -- as indicated by their respective sheet and matching color -- can repair larger hazards without taking damage
@@ -98,7 +98,7 @@ The initial setup consists of:
 
 **II Action Phase**:
 
-- during the action phase the Juggernaut and all other mages play their next action (as indicated by their action stack defined in the previous phase) after one another in a clock-wise fashion
+- during the action phase the Juggermage and all other mages play their next action (as indicated by their action stack defined in the previous phase) after one another in a clock-wise fashion
 - an action can either be a:
 
   + rotation: simply rotate the corresponding mage token
@@ -113,7 +113,7 @@ The initial setup consists of:
 - obstacles or the border of the map will stop the current movement (and will trigger a self-heal of the Ache Mage)
 - when colliding with other mages, they are pushed along with the moving mage (and get healed in case of the healer)
 - moving into hazards will stop the mage in front of the hazard and deal one damage to that mage
-- moving on the Juggernaut or getting moved by him will cause 1 HP of damage to the other mage
+- moving on the Juggermage or getting moved by him will cause 1 HP of damage to the other mage
 
 **Repair rules**:
 
@@ -122,7 +122,7 @@ The initial setup consists of:
 - a repair action removes all hazard tokens from a single chosen field
 - each mage can repair each type of hazards, but depending on his expertise, it might deal damage to the mage:
 
-  + each corruption token (violet) will deal one damage per token
+  + each corruption token (purple) will deal one damage per token
   + fire (red), hull breach (blue) and rat plague (grey) will deal token - 1 damage to all mages, except for the one specialized in dealing with that type of hazard
   + mages being specialized on a certain type of hazard will not take damage for that type of hazard, irrespective of the number of tokens when removing the hazard
 
