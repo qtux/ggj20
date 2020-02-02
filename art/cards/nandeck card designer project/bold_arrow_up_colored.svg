@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: http://krita.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.44pt"
+   height="61.44pt"
+   viewBox="0 0 61.44 61.44"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="bold_arrow_up_colored.svg"
+   inkscape:export-filename="C:\workspaces\globalGameJam_2020\gitRepo\art\cards\bold_arrow_up_colored.png"
+   inkscape:export-xdpi="2343.75"
+   inkscape:export-ydpi="2343.75"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="2.8808594"
+     inkscape:cx="40.959999"
+     inkscape:cy="40.959999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs2" />
+  <rect
+     id="shape0"
+     transform="translate(18.9619504200522, 24.8565521146032)"
+     fill="#000000"
+     fill-rule="evenodd"
+     stroke="#030100"
+     stroke-width="2.3819928"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     width="23.7129029578992"
+     height="30.72"
+     style="fill:#00b6ec;fill-opacity:1;stroke:#00b6ec;stroke-opacity:1" />
+  <path
+     id="shape1"
+     transform="translate(7.71032217316527, 5.86344788539678)"
+     fill="#000000"
+     fill-rule="evenodd"
+     stroke="#030100"
+     stroke-width="2.3819928"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     d="M23.1036 0L0 23.1233L46.0194 23.1233L23.1036 0"
+     style="fill:#00b6ec;fill-opacity:1;stroke:#00b6ec;stroke-opacity:1" />
+</svg>
