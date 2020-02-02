@@ -2,10 +2,6 @@
 Looney Mages' Cruise - A Boardgame
 ==================================
 
-
-Overview
-========
-
 *Ache Mage, Coffee Magiatto, Duct Tape Mage and Gastronomage are on their weekend cruise on their beloved ship Booty to visit their old friends at the high academy of magical arts. Suddenly, violet strings of pure magic emerge from within the fabric of space and time dragging it into void between the six and half dimensions of reality.*
 
 .. figure:: art/concept.svg
@@ -83,7 +79,7 @@ The initial setup consists of:
 - deal five cards to the Juggernaut and reveal them -- the starting mage explains the movement path of the Juggernaut to the fellow magicians
 
 
-**Planing Phase**:
+** I Planing Phase**:
 
 - the action phase has a time limit of 1:30
 - one of you may discard his hand and immediately replace it with the backup pile
@@ -100,7 +96,7 @@ The initial setup consists of:
 - you may chat with each other to optimize your turns
 - if time runs out, every mage has to pick cards at random until everyone has exactly five chosen actions
 
-**Action Phase**:
+**II Action Phase**:
 
 - during the action phase the Juggernaut and all other mages play their next action (as indicated by their action stack defined in the previous phase) after one another in a clock-wise fashion
 - an action can either be a:
@@ -112,7 +108,7 @@ The initial setup consists of:
 - the phase ends when all mages have played all of their actions
 
 
-**Movement rules**:
+**III Movement rules**:
 
 - obstacles or the border of the map will stop the current movement (and will trigger a self-heal of the Ache Mage)
 - when colliding with other mages, they are pushed along with the moving mage (and get healed in case of the healer)
