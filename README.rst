@@ -6,7 +6,7 @@ Looney Mages' Cruise - A Boardgame
 
 .. figure:: art/concept.svg
 
-This game can be played by four players navigating one of the four playable mages who fix the wreckage caused by the jumps through the dimensions. To do so, the players have to plan each round by choosing action cards and their order.
+This is a cooperative game that can be played by four players navigating one of the four playable mages who fix the wreckage caused by the jumps through dimensions. To do so, the players have to plan each round by choosing action cards and their order.
 Your objective is to survive your inter-dimensional trip to the high academy of magical arts by ensuring that no mage dies and ol' Booty stays in shape.
 As each round has a time limit, total game time is about 30 min.
 
