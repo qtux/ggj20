@@ -8,6 +8,8 @@ Overview
 
 *Ache Mage, Coffee Magiatto, Duct Tape Mage and Gastronomage are on their weekend cruise on their beloved ship Booty to visit their old friends at the high academy of magical arts. Suddenly, violet strings of pure magic emerge from within the fabric of space and time dragging it into void between the six and half dimensions of reality.*
 
+.. figure:: art/concept.svg
+
 This game can be played by four players navigating one of the four playable mages fixing the wreckage caused by the jumps through the dimensions. To do so, the have to plan each round by choosing action cards and their order for each round.
 Your objective is to survive your inter-dimensional trip to the high academy of magical arts by ensuring that no mage dies and ol' Booty stays in shape.
 As each round has a time limit, total game time is about 30 min.

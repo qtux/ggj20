@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Krita: http://krita.org -->
+
+<svg
+   xmlns:krita="http://krita.org/namespaces/svg/krita"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.44pt"
+   height="61.44pt"
+   viewBox="0 0 61.44 61.44"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="colored_move_x.svg"
+   inkscape:export-filename="C:\workspaces\globalGameJam_2020\gitRepo\art\cards\move_4.png"
+   inkscape:export-xdpi="2343.75"
+   inkscape:export-ydpi="2343.75"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="2.8808594"
+     inkscape:cx="40.959999"
+     inkscape:cy="40.959999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <defs
+     id="defs2" />
+  <rect
+     id="shape0"
+     width="11.856451"
+     height="30.719999"
+     style="fill:#00b6ec;fill-opacity:1;fill-rule:evenodd;stroke:#00b6ec;stroke-width:1.68432331;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     x="41.651775"
+     y="25.027531" />
+  <path
+     id="shape1"
+     d="m 47.626962,6.0026961 -11.5518,23.1233009 h 23.0097 L 47.626962,6.0026961"
+     style="fill:#00b6ec;fill-opacity:1;fill-rule:evenodd;stroke:#00b6ec;stroke-width:1.68432331;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <text
+     id="shape2"
+     krita:useRichText="true"
+     font-size="36"
+     font-size-adjust="0.444901"
+     font-stretch="normal"
+     kerning="0"
+     letter-spacing="0"
+     word-spacing="0"
+     x="0.70421499"
+     y="49.595589"
+     style="font-stretch:normal;font-size:54.54190063px;font-family:'Liberation Sans';letter-spacing:0;word-spacing:0;fill:#00b6ec;fill-opacity:1;stroke-width:1.5150528">
+    <tspan
+       x="0.70421499"
+       id="tspan6"
+       style="fill:#00b6ec;fill-opacity:1;stroke-width:1.5150528">1</tspan>
+  </text>
+</svg>
