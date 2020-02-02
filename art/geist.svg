@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="841.92pt"
+    height="595.2pt"
+    viewBox="0 0 841.92 595.2">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.39892019182804" y2="1.22533657368926" spreadMethod="pad">
+   <stop stop-color="#8e9a9f" offset="0" stop-opacity="1"/>
+   <stop stop-color="#b498af" offset="0.229050279329609" stop-opacity="1"/>
+   <stop stop-color="#f495d3" offset="0.435754189944134" stop-opacity="1"/>
+   <stop stop-color="#f895d5" offset="0.53072625698324" stop-opacity="1"/>
+   <stop stop-color="#d984bb" offset="0.921787709497207" stop-opacity="1"/>
+   <stop stop-color="#383d3d" offset="0.994413407821229" stop-opacity="1"/>
+   <stop stop-color="#0a222a" offset="1" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<path id="shape0" transform="matrix(0.995603525829878 -0.0936676003489953 0.0936676003489953 0.995603525829878 471.434531380152 240.876420541313)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M7.28295 37.8885C14.0376 14.1471 15.9736 6.01571 36.8671 1.1753C46.1112 -0.529993 55.5893 -0.379574 65.3012 1.62656C74.517 3.7778 81.1983 10.5619 85.3449 21.9787C91.397 46.0262 85.1211 49.6843 84.7412 65.0741C89.3765 84.1882 90.6024 92.8957 88.9022 100.3C86.4898 108.589 84.1447 120.077 80.1418 107.276C76.1388 94.4755 75.647 80.0261 70.4026 87.9068C65.1582 95.7875 64.6207 102.202 53.2193 109.641C41.818 117.08 42.4895 120.343 43.2222 112.707C43.3108 105.959 54.5575 80.4442 44.7442 86.933C34.9309 93.4219 27.4486 118.465 25.1715 106.64C22.8943 94.8148 14.2384 75.0293 10.4424 86.1155C6.64631 97.2017 2.92074 108.652 1.50716 97.7964C-0.152926 85.0476 -2.50458 74.8213 7.28295 37.8885Z"/><path id="shape1" transform="translate(503.995259712811, 262.60857231828)" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M3.19152 13.0319C12.5255 15.9186 9.88457 -5.55844 2.86017 1.39284C0.199884 5.39991 -2.09955 9.97101 3.19152 13.0319Z"/><path id="shape2" transform="translate(531.004605220391, 262.127998407954)" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M3.1802 12.9861C11.798 14.6384 9.40783 0.717704 4.35168 0C-1.04886 2.13004 -1.40343 12.5415 3.1802 12.9861Z"/><path id="shape3" transform="translate(516.180185899452, 288.957364741295)" fill="none" stroke="#000000" stroke-width="2.4" stroke-linecap="square" stroke-linejoin="bevel" d="M0.642326 0.997935C-2.14508 9.4185 4.9112 7.566 7.07816 7.88799C9.24511 8.20997 14.9125 6.92055 11.24 0C6.03807 2.30199 6.8067 2.04248 0.642326 0.997935Z"/><circle id="shape13" transform="matrix(1.00000003393234 0 0 0.999999960332375 439.960691106308 213.600002957938)" r="84" cx="84" cy="84" fill="none" stroke="#000000" stroke-width="9.6" stroke-linecap="square" stroke-linejoin="bevel"/>
+</svg>
