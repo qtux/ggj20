@@ -6,7 +6,7 @@ Looney Mages' Cruise - A Boardgame
 
 .. figure:: art/concept.svg
 
-This game can be played by four players navigating one of the four playable mages fixing the wreckage caused by the jumps through the dimensions. To do so, the have to plan each round by choosing action cards and their order for each round.
+This game can be played by four players navigating one of the four playable mages who fix the wreckage caused by the jumps through the dimensions. To do so, the players have to plan each round by choosing action cards and their order.
 Your objective is to survive your inter-dimensional trip to the high academy of magical arts by ensuring that no mage dies and ol' Booty stays in shape.
 As each round has a time limit, total game time is about 30 min.
 
@@ -18,23 +18,23 @@ Main Content
 - 1 ol' Bootys deck, a grid-based map of the ship deck for placing and moving tokens
 - 5 different mage sheets (4 of them playable), for tracking hit points and explaining their special skills:
 
-  + Ache Mage (green, has a healing touch, can heal mages, either by moving himself to heal himself or by moving another mage into a wall or obstacle)
-  + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up)
-  + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down)
+  + Ache Mage (green, has a healing touch, can heal mages, either by moving himself into a wall or obstacle or by moving another mage)
+  + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up once per round)
+  + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down once per round)
   + Gastronomage (grey, can easily deal with rats, and make a rat skewer to heal himself)
   + Juggermage (orange, mad colleague, lost his mind jumping through dimensions and randomly interferes with the other mages, disturbing their actions)
 
 - 5 mage tokens indicating the current viewing direction of each mage
 - 1 starting mage token
 - 8 obstacle tokens
-- 4 types of hazards tokens:
+- 4 types of hazard tokens:
 
   + fire (red)
   + hull breach (blue)
   + rat plague (grey)
   + corruption (purple)
 
-- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired to RoboRalley movement system:
+- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired by the RoboRalley movement system:
 
   + 2 x Move 4
   + 6 x Move 3
@@ -53,16 +53,16 @@ Game Flow
 =========
 
 The game is played in six rounds, each consisting of five actions per player.
-Each round starts with the **Preparation Phase**, followed by the **Planing Phase** and the **Action Phase**.
+Each round starts with the **Preparation Phase**, followed by the **Planning Phase** and the **Action Phase**.
 The initial setup consists of:
 
 - put the main game board -- the deck of your magical ship -- to the center of the table.
 - randomly assign the starting mage token to a player
 - shuffle the mage sheets (except for the Juggermage) and deal one to each player
 - put the mage tokens of the four playable mages in each corner of the board
-- put the Juggermage mage token randomly somewhere in the middle of the ship deck
-- put a dice on the mage sheet hit point slot to indicate your current life (starter: 6, advanced: 4, crazy wizard: 2) -- the Juggermage is immortal
-- randomly put obstacle tokens (starter: 4, advanced: 6, crazy wizard: 8) on the playfield ensuring that no mage is blocked
+- put the Juggermage token randomly somewhere in the middle of the ship deck
+- put a dice on the mage sheet hit point slot to indicate your current life (adjust difficulty, by setting the following starting hit points: starter: 6, advanced: 4, crazy wizard: 2) -- the Juggermage is immortal
+- randomly put obstacle tokens (adjust the difficulty, by setting the following number of obstacles: starter: 4, advanced: 6, crazy wizard: 8) on the playfield ensuring that no mage is blocked
 
 
 **Preparation Phase**:
@@ -79,7 +79,7 @@ The initial setup consists of:
 - deal five cards to the Juggermage and reveal them -- the starting mage explains the movement path of the Juggermage to the fellow magicians
 
 
-** I Planing Phase**:
+**I Planning Phase**:
 
 - the action phase has a time limit of 1:30
 - one of you may discard his hand and immediately replace it with the backup pile
@@ -87,8 +87,8 @@ The initial setup consists of:
 
   + movement, rotation or repair (turn one of the action cards on the back to indicate a planned repair action)
   + a repair is only possible when being adjacent to the hazard (repairing a hazard diagonally to the mage is not allowed)
-  + if multiple hazards are adjacent to the mage, the mage may choose the hazard to be upon executing the repair action
-  + each mage can repair a single fire, hull breach or rat token without taking damage
+  + if multiple hazards are adjacent to the mage, the mage may choose which hazard to remove (repair only one field)
+  + each mage can repair a single fire, hull breach or rat token without taking damage (reducing hit points by one)
   + only the three specialized mages -- as indicated by their respective sheet and matching color -- can repair larger hazards without taking damage
   + every mage which is not specialized in dealing with fire, hull breaches or rat plagues gets one point of damage per token beyond the first one
   + each mage gets one point of damage for each removed corruption token
@@ -130,7 +130,7 @@ The initial setup consists of:
 
 You win the game if you survived the journey, that means:
 
-- no mage died (dropping the health below 1)
+- no mage died (dropping the hit points below 1)
 - no hazard reached the fourth level
 - there were not more than two hazard of the same type at the end of a round
 - you and your ship survived six rounds
