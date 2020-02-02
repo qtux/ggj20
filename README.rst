@@ -15,39 +15,16 @@ As each round has a time limit, total game time is about 30 min.
 Main Content
 ============
 
-- 1 ol' Bootys deck, a grid-based map of the ship deck for placing and moving tokens
-- 5 different mage sheets (4 of them playable), for tracking hit points and explaining their special skills:
+Game Material:
 
-  + Ache Mage (green, has a healing touch, can heal mages, either by moving himself into a wall or obstacle or by moving another mage)
-  + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up once per round)
-  + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down once per round)
-  + Gastronomage (grey, can easily deal with rats, and make a rat skewer to heal himself)
-  + Juggermage (orange, mad colleague, lost his mind jumping through dimensions and randomly interferes with the other mages, disturbing their actions)
+- things you may have lying around:
 
-- 5 mage tokens indicating the current viewing direction of each mage
-- 1 starting mage token
-- 8 obstacle tokens
-- 4 types of hazard tokens:
+  + 4 times D6 (only used to track health, you may use pen and paper instead)
+  + one D8 and D10 (you may use an app/a program to simulate this)
 
-  + fire (red)
-  + hull breach (blue)
-  + rat plague (grey)
-  + corruption (purple)
-
-- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired by the RoboRalley movement system:
-
-  + 2 x Move 4
-  + 6 x Move 3
-  + 12 x Move 2
-  + 18 x Move 1
-  + 6 x Backup
-  + 9 x Move Left
-  + 9 x Move Right
-  + 18 x Rotate Left
-  + 18 x Rotate Right
-  + 6 x U Turn
-
-
+- things you have to print:
+  + all files from within the print directory
+  + **Note**: there is a small and large version of the action cards, you can choose which you want to print
 
 Game Flow
 =========
@@ -134,3 +111,40 @@ You win the game if you survived the journey, that means:
 - no hazard reached the fourth level
 - there were not more than two hazard of the same type at the end of a round
 - you and your ship survived six rounds
+
+
+
+List of Game Materials
+======================
+
+- 1 ol' Bootys deck, a grid-based map of the ship deck for placing and moving tokens
+- 5 different mage sheets (4 of them playable), for tracking hit points and explaining their special skills:
+
+  + Ache Mage (green, has a healing touch, can heal mages, either by moving himself into a wall or obstacle or by moving another mage)
+  + Coffee Magiatto (red, can easily distinguish fire with coffee, speed up once per round)
+  + Duct Tape Mage (blue, can easily fix ruptures in the ship, slow down once per round)
+  + Gastronomage (grey, can easily deal with rats, and make a rat skewer to heal himself)
+  + Juggermage (orange, mad colleague, lost his mind jumping through dimensions and randomly interferes with the other mages, disturbing their actions)
+
+- 5 mage tokens indicating the current viewing direction of each mage
+- 1 starting mage token
+- 8 obstacle tokens
+- 4 types of hazard tokens:
+
+  + fire (red)
+  + hull breach (blue)
+  + rat plague (grey)
+  + corruption (purple)
+
+- 104 action cards consisting of movement (cyan) and rotation (orange) cards - inspired by the RoboRalley movement system:
+
+  + 2 x Move 4
+  + 6 x Move 3
+  + 12 x Move 2
+  + 18 x Move 1
+  + 6 x Backup
+  + 9 x Move Left
+  + 9 x Move Right
+  + 18 x Rotate Left
+  + 18 x Rotate Right
+  + 6 x U Turn
